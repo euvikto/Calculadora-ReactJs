@@ -5,7 +5,6 @@ Projeto de uma calculadora feita com React para treinar componentes, estados e l
 ## 🚀 Tecnologias usadas
 - React
 - JavaScript
-- CSS
 
 ## 📸 Preview
 (Coloque um print ou gif aqui depois)
